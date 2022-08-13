@@ -1,0 +1,28 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"/6499/example/app-open",
+         "admob_BgOpenads":"/6499/example/app-open",
+         "admob_inter":"/6499/example/interstitial",
+         "admob_inter1":"/6499/example/interstitial",
+         "admob_back_inter":"/6499/example/interstitial",
+         "admob_back_inter1":"/6499/example/interstitial",
+         "admob_banner":"/6499/example/banner",
+         "admob_native":"/6499/example/native",
+         "admob_native_banner":"/6499/example/native",
+         "qureka_link":"https://1373.win.qureka.com",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "isSplash":"false"
+      }
+   ]
+}
